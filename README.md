@@ -8,6 +8,7 @@ Foi contruído um pequeno sistema (API REST) de usuários e departamentos, com o
 -   Buscar todos usuários
 -   Buscar um usuário pelo seu id
 -   Inserir um novo usuário
+  
 ![](https://raw.githubusercontent.com/devsuperior/java-web-spring-2022/main/img/dominio.png)
 
 ## Desenvolvimento moderno: relacional -> objeto -> json
